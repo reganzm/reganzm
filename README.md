@@ -21,7 +21,7 @@ _____________|','   ///_/-------------/   |
 ```
 ### Hi there I'm reganzm :lemon:
 
-我的博客地址：[![do-leecode](https://do-leecode.github.io/img/avatar.jpg)](https://do-leecode.github.io/)
+我的博客地址：[![do-leecode](https://wx.qlogo.cn/mmopen/pSAJvTh5Bl6dL9YFibJCcNIhGqDiabdF7eczia1LL1hwoSpSK8pAkMNn1pmmbsS1s3CnWWfm1Jib1CXs8mkzibLKH6cwKIAwx93Eia/64)](https://do-leecode.github.io/)
 
 🚀Welcome to the my planet🌎
 
