@@ -1,3 +1,4 @@
+```
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -17,12 +18,10 @@ _____________,'      ,',_____|      |    | |
              | ,','  __/ |             /   |
 _____________|','   ///_/-------------/   |
               |==========='
-
+```
 ### Hi there I'm reganzm :lemon:
 
 [![do-leecode](https://do-leecode.github.io/img/avatar.jpg?style=flat-square&logo=c&logoColor=white)](https://do-leecode.github.io/)
-[![]()](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg5MDE5NDc4MQ==&action=getalbum&album_id=3357418700156502025#wechat_redirect)
-[![qq]()](626692024)
 
 🚀Welcome to the my planet🌎
 
