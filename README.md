@@ -21,7 +21,7 @@ _____________|','   ///_/-------------/   |
 ```
 ### Hi there I'm reganzm :lemon:
 
-[![do-leecode](https://do-leecode.github.io/img/avatar.jpg?style=flat-square&logo=c&logoColor=white)](https://do-leecode.github.io/)
+[![do-leecode]()](https://do-leecode.github.io/)
 
 🚀Welcome to the my planet🌎
 
