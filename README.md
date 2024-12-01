@@ -19,11 +19,11 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |==========='
 ```
-### Hi there I'm reganzm :lemon:
+### :lemon: Hi there I'm reganzm 
 
 我的博客地址：<url>https://do-leecode.github.io/</url>
 
-:lemon:Welcome to the my planet:lemon:
+:lemon:Welcome to the my planet
 
 :lemon: **This week I spent my time on**
 
