@@ -1,8 +1,9 @@
 ### :lemon: Hi there I'm reganzm 
 
 <br><br>
-我的博客地址：<url>https://do-leecode.github.io/</url>
-
+- 👨‍💻My Blog：<url>https://do-leecode.github.io/</url>
+- 📫How to reach me:626692024@qq.com
+- Languages
 
 <img align='center'  width="300" src="https://github-readme-stats.vercel.app/api?username=reganzm&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"></img>
 
