@@ -6,7 +6,7 @@
 
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reganzm&theme=radical)< alt="dinotocat" style="float: left; margin-right: 10px;" width="300px" />
+![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=reganzm&theme=radical)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=reganzm)
