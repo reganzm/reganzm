@@ -1,6 +1,5 @@
 ### :lemon: Hi there I'm reganzm 
 
-<br><br>
 - 👨‍💻My Blog：<url>https://do-leecode.github.io/</url>
 - 📫How to reach me:626692024@qq.com
 - Statistics
