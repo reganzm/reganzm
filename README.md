@@ -1,4 +1,23 @@
-### :lemon: Hi there I'm reganzm 
+
+
+<div align="center">
+  
+  # 👋 Hi there, I'm reganzm
+  
+  <p>
+    <a href="https://github.com/reganzm"><img src="https://img.shields.io/github/followers/reganzm?label=Followers&style=social" alt="GitHub Followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=reganzm&color=blueviolet&style=flat-square" alt="Profile Views" />
+  </p>
+  
+  <br/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=6A5ACD&center=true&vCenter=true&width=435&lines=Rust;Python;Java;Always+Learning+New+Things" alt="Typing SVG" />
+  
+  <br/>
+</div>
+
+<br/>
+
 
 - 👨‍💻My Blog：<url>https://do-leecode.github.io/</url>
 - 📫How to reach me:626692024@qq.com
