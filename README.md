@@ -19,7 +19,7 @@
 <br/>
 
 
-- 👨‍💻My Blog：<url>https://do-leecode.github.io/</url>
+- 👨‍💻My Blog：<url>https://itodoit.com</url>
 - 📫How to reach me:626692024@qq.com
 
 ## 📊 GitHub Stats
